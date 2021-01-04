@@ -1,0 +1,1 @@
+chrome-extension://hegbjcdehgihjohghnmdpebepnoalode/scripts/jquery.js
